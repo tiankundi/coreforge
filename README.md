@@ -1,3 +1,9 @@
+# coreforge
+
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/tiankundi/coreforge/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/tiankundi/coreforge/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 # Forge — a GitHub-compatible git forge in one Node process
 
 A standalone GitHub-compatible forge for the make.fun competition
@@ -56,3 +62,7 @@ Requires Node 22.18 or later (type stripping). No dependencies to install.
 - `graphql.ts` — a small GraphQL parser/executor for the surface above.
 - `mcp.ts` — the MCP tools and JSON-RPC handling.
 - `shapes.ts` — the JSON object shapes REST and MCP share.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=dj5sp1xh&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
